@@ -1,1 +1,1 @@
-rootProject.name = "spock-restassured-allure"
+rootProject.name = "spock-restassured-allure-test"

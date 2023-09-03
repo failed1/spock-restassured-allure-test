@@ -1,6 +1,5 @@
-group = "com.nortal"
 version = "1.0"
-description = "spock-restassured-allure"
+description = "spock-restassured-allure-test"
 
 plugins {
     groovy
